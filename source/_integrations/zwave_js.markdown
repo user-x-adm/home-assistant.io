@@ -868,7 +868,7 @@ Many users have reported issues with interference when the USB stick was directl
 
 #### How to access the Z-Wave logs
 
-Z-Wave writes details to its logs. To access these logs go to the following.
+Z-Wave writes details from the Z-Wave JS driver to its logs. To access these logs go to the following.
 
    **Configuraton** -> **Devices & Services** -> **Integrations(tab)** -> **Z-Wave (CONFIGURE)** -> **Logs(tab)**
 
